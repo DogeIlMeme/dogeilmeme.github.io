@@ -1,0 +1,23 @@
+body{
+    background-color: orange;
+    font-family: 'Julius Sans One', sans-serif;
+    font-size: 27px;
+    text-shadow: 4px 4px 4px #aaa;
+}
+.Welcome {
+    color: rgba(255, 19, 70, 0.714);
+    text-align: center;
+    font-size: xx-large;
+    background-color: white;
+    border: 2px solid red;
+    padding: 40px;
+    font-family: 'Indie Flower';
+}
+.canale-telegram {
+  align-content:  center;
+  color: rgb(0, 153, 255);
+  }
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  }
